@@ -1,0 +1,4 @@
+[submodule "02 Trabajo Colaborativo/02 Trabajo Colaborativo/-conflict-exercise"]
+	path = 02 Trabajo Colaborativo/02 Trabajo Colaborativo/-conflict-exercise
+	url = https://github.com/leonelpb/-conflict-exercise.git
+	branch = feature-branch
