@@ -144,7 +144,7 @@ def menuOpen():
 def main():
     while True:
         menuOpen()
-        option = input("Ingrese una opcion ")
+        option = input("Ingrese una opcion: ")
 
         match option:
             case "1":
